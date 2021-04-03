@@ -1,7 +1,7 @@
 # Web1lab1
-## Belajar tag Dasar HTML
+## Belajar Tag Dasar HTML
 
 ### Membuat Paragraf
 kode tag untuk paragraf adalah '<p>'
 ini adalah tampilannya
-![gambar](screenshot/HTML.png)
+![Gambar 1](screenshot/HTML.png)
